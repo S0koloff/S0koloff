@@ -1,6 +1,19 @@
 ### Hi there 👋
 
+<h1 align="center">Hi there, I'm Aleksandr</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">iOS app developer from Russia 🇷🇺</h3>
+
+
+
+
 <!--
+
+
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/etozhesokoloff) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=S0koloff&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 **S0koloff/S0koloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
